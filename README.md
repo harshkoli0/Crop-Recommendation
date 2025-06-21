@@ -2,10 +2,6 @@
 
 A machine learning web application that recommends the most suitable crop to grow based on soil and weather conditions using a Random Forest model. Built using Python, Streamlit, and scikit-learn.
 
-🚀 [Click here to try the live app](# 🌾 Crop Recommendation App
-
-A machine learning web application that recommends the most suitable crop to grow based on soil and weather conditions using a Random Forest model. Built using Python, Streamlit, and scikit-learn.
-
 🚀 [Click here to try the live app](https://crop-recommendation-c4zm4cjipsd4fsueftdvgz.streamlit.app/)
 
 ---
